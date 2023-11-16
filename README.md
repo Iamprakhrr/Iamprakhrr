@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prakhar
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning python pygame but i want to learn other languages too
+- 💞️ I’m looking to collaborate on 0
+- 📫 @Iamprakhrr on X
